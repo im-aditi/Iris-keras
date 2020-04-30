@@ -2,23 +2,9 @@
 ## Description
 A neural network built with the help of Keras to perform classification on Iris dataset.
 ## Problem Statement
-Iris dataset is one of the classical datasets to perform classification. The problem is to classify the Iris flower into its 3 categories:
+Iris dataset is one of the classical datasets to perform classification. The problem is to classify the Iris flower into its 3 categories: Setosa, Versicolor, Virginica
 
-Setosa
-
-Versicolor
-
-Virginica
-
-The parameters given in the dataset are:
-
-Sepal Length
-
-Sepal Width
-
-Petal Length
-
-Petal Width
+The parameters given in the dataset are: Sepal Length, Sepal Width, Petal Length, Petal Width
 
 ## Input
 Train Data- 120 rows
